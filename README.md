@@ -58,7 +58,7 @@
   <tr>
     <td>💼 <strong>LinkedIn</strong></td>
     <td>
-      <a href="https://www.linkedin.com/in/muhammad-saad-khalil-5bb81714b/" target="_blank">
+      <a target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
       </a>
     </td>
