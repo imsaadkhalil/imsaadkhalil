@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Mobile App Developer | Flutter • Swift • Kotlin • React Native</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=60&lines=Mobile+App+Developer+with+7%2B+Years+Experience;50%2B+Apps+Deployed+on+App+Store+%26+Play+Store;Helping+Startups+Build+and+Scale+Mobile+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=60&lines=Mobile+App+Developer+with+8%2B+Years+Experience;50%2B+Apps+Deployed+on+App+Store+%26+Play+Store;Helping+Startups+Build+and+Scale+Mobile+Apps" alt="Typing SVG" />
 </p>
 
 ---
